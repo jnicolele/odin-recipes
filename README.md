@@ -9,3 +9,6 @@ This is a Recipes page. :)
 -- Nikki
 
 <h1>Refelction</h1>
+1. DOUBLE CHECK SPELLING OF EVERYTHING
+2. Dark mode makes me sleepy
+3. I want to adjust the picture size so baad but that will happen later-- Patience.
